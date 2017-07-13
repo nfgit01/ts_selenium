@@ -1,0 +1,5 @@
+1. Find Struts2 Vulnerabiliy page (cwiki).
+2. Get Snapshow of security vultins page.
+3. Get each vulneravility information page links
+4. Get Snapshow of each vulneravility page.
+
